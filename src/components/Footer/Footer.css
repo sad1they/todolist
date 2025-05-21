@@ -1,0 +1,8 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.clear-btn {
+  background-color: transparent;
+}

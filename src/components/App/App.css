@@ -1,0 +1,17 @@
+.main {
+  position: absolute;
+  left: 25%;
+  width: 50%;
+}
+
+.item-completed {
+  text-decoration: line-through;
+}
+
+.todo-item {
+  display: flex;
+}
+
+.todo-item-checkbox {
+  margin-right: 10px;
+}
