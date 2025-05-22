@@ -25,7 +25,7 @@ const Header: React.FC<HeaderProps> = ({ addTodo }) => {
                 prefix={<DownOutlined className='down-icon' />}
                 value={todoText}
                 onChange={(e) => setTodoText(e.target.value)}
-                onKeyDown={(e) => enterTodoText(e)}
+                onKeyDown={(e) => todoText && enterTodoText(e)}
             />
         </div>
     )
