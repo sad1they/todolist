@@ -1,8 +1,7 @@
-Всем привет.
-Это TodoList Pro Max)
+This is TodoList Pro Max)
 
-Ссылка на Vercel 
+link on Vercel 
 https://todolist-chi-ruby.vercel.app/
 
-Хочу отметить, что проект написан на React + Typescript, собран при помощь Vite, библиотека компонентов Ant Design, присутствуют тесты Jest + React Testing Libary, а так же базовые настройки tsconfig, vite, prettierrc, jestconfig
-Мало о чем говорит, но test coverage в среднем 99%
+I wanna say this project created on React + Typescript, throught Vite, UI libary is a Ant Design, here you can find tests on Jest + React Testing Libary, also base settings tsconfig, viteconfig, prettierrc, jestconfig
+Useless information, but test coverage 99%
